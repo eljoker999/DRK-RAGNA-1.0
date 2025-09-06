@@ -55,7 +55,7 @@
       "pastebin-js": "latest",
       "path": "^0.12.7",
       "pg": "^8.11.3",
-      "pm2": "^5.2.0",
+      "pm2": "^6.0.9",
       "puppeteer": "latest",
       "qrcode": "latest",
       "secktor-pack": "latest",
